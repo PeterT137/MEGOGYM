@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|c:\\users\\tronggay\\desktop\\megogym\\megogym\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{351400F4-43C5-4AD5-ACFF-463AC8F86C41}|MEGOGYM.csproj|solutionrelative:views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homepage.cshtml",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Homepage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Homepage.cshtml",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Homepage.cshtml",
+              "RelativeToolTip": "Views\\Home\\Homepage.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T09:09:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Home\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T06:07:25.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:18:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:28:19.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:29:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T07:30:07.242Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAkwMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T19:35:08.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
