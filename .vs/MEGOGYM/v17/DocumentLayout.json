@@ -37,9 +37,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 239,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 360,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:29:25.907Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -90,19 +103,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAwwLsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:29:25.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AboutUs.cshtml",
               "DocumentMoniker": "C:\\Users\\TrongGAy\\Desktop\\MegoGym\\MEGOGYM\\Views\\Home\\AboutUs.cshtml",
@@ -116,7 +116,7 @@
           ]
         },
         {
-          "DockedWidth": 161,
+          "DockedWidth": 40,
           "SelectedChildIndex": 0,
           "Children": [
             {
